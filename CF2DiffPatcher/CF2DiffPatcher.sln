@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CF2DiffPatcher", "CF2DiffPatcher\CF2DiffPatcher.csproj", "{AF270C58-EB31-447C-8065-59EF4A586D21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF270C58-EB31-447C-8065-59EF4A586D21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF270C58-EB31-447C-8065-59EF4A586D21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF270C58-EB31-447C-8065-59EF4A586D21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF270C58-EB31-447C-8065-59EF4A586D21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
