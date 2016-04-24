@@ -3,7 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Height="31" Margin="371,55,0,0" VerticalAlignment="Top" Width="97"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="31" Margin="371,55,0,0" VerticalAlignment="Top" Width="97" Click="Button_Click"/>
 
     </Grid>
 </Window>
